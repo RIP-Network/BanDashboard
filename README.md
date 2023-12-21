@@ -4,11 +4,9 @@ Esta herramienta usa un fallo de la API unofficial de Instagram para poder suspe
 
 Esta herramienta es muy sencilla de usar, simplemente con las credenciales de la víctima podremos suspender el usuario sin dejar rastro de inicio de sesión y bypasseando la seguridad de inicio de sesión de Instagram.
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/IGinjector-Instagram_OSINT-red"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/BanDashboard-purple"/></p>
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-8.0-red.svg?style=for-the-badge"/></p>
-
-<p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/logo.png"> </p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.0-purple.svg?style=for-the-badge"/></p>
 
 # Instalacion
 ```bash
