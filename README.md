@@ -47,7 +47,6 @@ Una vez pongamos las credenciales simplemente tendremos que esperar hasta que la
 
 [*] Ubuntu
 
-[*] Termux 
 ```
 # Reportar error
 
