@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "instagram": "^1.45.3",
-    "readline-sync": "^1.4.10"
-  }
-}
