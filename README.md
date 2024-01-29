@@ -26,7 +26,7 @@ $ chmod 755 BanDash
 $ ./BanDash
 ```
 
-# ⭐ Bypass Loggin ⭐
+# ⭐ Bypass Log ⭐
 
 Esta herramienta explota un pequeño fallo en la API unofficial de Instagram para poder iniciar sesión de manera sigilosa sin logs y sin protección por inicio de sesión sospechoso, de esta manera conseguiremos suspender la cuenta sin dejar rastro de que algun dispositivo sospechoso haya entrado.
 
