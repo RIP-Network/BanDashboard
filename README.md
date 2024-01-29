@@ -1,4 +1,4 @@
-# 🔶 BanDashboard 🔶
+# 🔶 BanDash 🔶
 
 Esta herramienta usa un fallo de la API unofficial de Instagram para poder suspender un usuario colocando sus credenciales, tambien hace bypass a la seguridad de inicio de sesión de Instagram para evitar registros en los logs.
 
