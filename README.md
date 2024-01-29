@@ -69,6 +69,16 @@ En este apartado podras ver las versiones que ha tenido y sus cambios para saber
   <p align="justify">[#] Se ha arreglado la API nuevamente para que vuelva a funcionar con todas sus opciones disponibles.</p>
 </details>
 
+# 🐧Como usar🐧
+
+1. Primeramente ejecutamos el archivo para que nos pueda aparecer el menu y podamos empezar a utilizarlo.
+
+2. Una vez iniciado nos pedira un email y password, una vez nos pida esto deberemos colocar las credenciales de email y password de la víctima que queremos suspender, también sirve el nick.
+
+3. Aunque seguramente digais que esta herramienta no tiene uso ya que podemos entrar a la cuenta y eliminarla nosotros mismos esta herramienta cumple la función de evitar que la cuenta se bloquee por inicio de sesión sospechoso y evita el registro de nuestra información en la cuenta de la víctima.
+
+4. Por último una vez puesto todo lo necesario simplemente deberemos esperar a que la herramienta haga su trabajo, puede demorar hasta 2 dias pero lo mas rápido tarda 1 hora.
+
 # 📷 Captura 📷
 
 ![Screenshot](/images/foto.png)
