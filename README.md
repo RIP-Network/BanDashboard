@@ -49,6 +49,9 @@ Una vez pongamos las credenciales de la victima simplemente tendremos que espera
 
 ```
 # 🔱 Versiones 🔱
+
+En este apartado podras ver las versiones que ha tenido y sus cambios para saber las modificaciones que ha tenido y puede llegar a tener la herramienta.
+
 <details>
   <summary>[ v1.0 ]</summary>
   <p align="justify">[#] Version Oficial.</p>
@@ -65,6 +68,10 @@ Una vez pongamos las credenciales de la victima simplemente tendremos que espera
   <summary>[ v1.3 ]</summary>
   <p align="justify">[#] Se ha arreglado la API nuevamente para que vuelva a funcionar con todas sus opciones disponibles.</p>
 </details>
+
+# 📷 Captura 📷
+
+![Screenshot](/images/foto.png)
 
 # 💡 Reportar error 💡
 
