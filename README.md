@@ -6,7 +6,7 @@ Esta herramienta es muy sencilla de usar, simplemente con las credenciales de la
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/BanDashboard-purple"/></p>
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-2.0-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.3-purple.svg?style=for-the-badge"/></p>
 
 # ☕ Instalacion ☕
 ```bash
@@ -48,6 +48,24 @@ Una vez pongamos las credenciales de la victima simplemente tendremos que espera
 [*] Ubuntu
 
 ```
+# 🔱 Versiones 🔱
+<details>
+  <summary>[ v1.0 ]</summary>
+  <p align="justify">[#] Version Oficial.</p>
+</details>
+<details>
+  <summary>[ v1.1 ]</summary>
+  <p align="justify">[#] Se ha pasado de codigo javascript a python. </p>
+</details>
+<details>
+  <summary>[ v1.2 ]</summary>
+  <p align="justify">[#] Se ha arreglado el banner y se han cambiado los colores.</p>
+</details>
+<details>
+  <summary>[ v1.3 ]</summary>
+  <p align="justify">[#] Se ha arreglado la API nuevamente para que vuelva a funcionar con todas sus opciones disponibles.</p>
+</details>
+
 # 💡 Reportar error 💡
 
 Si crees que has encontrado algún fallo puedes reportarlo en este apartado para poder mejorar la herramienta y arreglar el fallo [Reportar fallo](https://github.com/RIP-Network/BanDashboard/issues/new).
