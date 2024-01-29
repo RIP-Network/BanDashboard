@@ -77,7 +77,7 @@ En este apartado podras ver las versiones que ha tenido y sus cambios para saber
 
 Si crees que has encontrado algún fallo puedes reportarlo en este apartado para poder mejorar la herramienta y arreglar el fallo [Reportar fallo](https://github.com/RIP-Network/BanDashboard/issues/new).
 
-# Redes Sociales
+# 🔴 Redes Sociales 🔴
 
 * YT : https://youtube.com/@RIPNetwork
   
